@@ -1,0 +1,4 @@
+[gd_scene format=3 uid="uid://dj0q28jsedfwi"]
+
+[node name="TileMapLayer" type="TileMapLayer" unique_id=1403507926]
+position = Vector2(-2, 0)
